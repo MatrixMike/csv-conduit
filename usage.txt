@@ -1,0 +1,6 @@
+Sun Jan 21 23:28:05 AEDT 2018 
+
+stack build
+
+: check that conduit is loaded : see other conduit repo
+
